@@ -1,0 +1,7 @@
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+
+echo "shell脚本本身的名字: $0"
+echo "传给shell的第一个参数: $1"
+echo "传给shell的第二个参数: $2"
+pnpm commitlint --edit $1

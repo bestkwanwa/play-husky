@@ -9,3 +9,6 @@
 
 ## commitlint
 - limit the commit message type and format
+
+## Note
+**Before the usage of git hooks which added by husky, you need to run `husky install` .**

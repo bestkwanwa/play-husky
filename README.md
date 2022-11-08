@@ -1,4 +1,4 @@
-# use husky
+# Use husky
 - reference: https://juejin.cn/post/6982192362583752741#heading-6
 
 ## prettier
